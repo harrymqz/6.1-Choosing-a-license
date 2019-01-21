@@ -9,3 +9,5 @@ The people are able to use and modify the code
         <td><img src="https://raw.githubusercontent.com/harrymqz/6.1-Choosing-a-license/master/img/license-summary.png" style="border: 1px solid black" /></td>
     </tr>
 </table>
+
+By instance: This would be a project with ROS to improve knowledgements about robotics trying to develop all the needed things, tools, designs... to create a mobile robot guided by GPS
