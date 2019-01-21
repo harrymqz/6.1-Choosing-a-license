@@ -1,7 +1,7 @@
 # 6.1-Choosing-a-license
 This repository is to choose a the right license
 
-I have chosen this [license](https://directory.fsf.org/wiki/License:BSD-3-Clause "title" target="_blank") because this license maintain the previous license.
+I have chosen this [license](https://directory.fsf.org/wiki/License:BSD-3-Clause) because this license maintain the previous license.
 The people are able to use and modify the code 
 
 <table>
